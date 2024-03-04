@@ -6,7 +6,7 @@ import { LampContainer } from "./ui/lamp";
 
 function HeroSection() {
     return (
-        <div className="h-[30rem] relative w-full bg-black flex flex-col items-center justify-center overflow-hidden rounded-md mb-5">
+        <div className="h-[32rem] relative w-full bg-black flex flex-col items-center justify-center overflow-hidden rounded-md ">
             
             <LampContainer>
                 <motion.h1
